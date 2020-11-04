@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Clinicalup
+- 🌱 I’m currently learning Asp.Net Core
+- 💬 Ask me about: [linkedin][https://www.linkedin.com/in/jo%C3%A3o-vitor-antunes-178881180/]
+
 <!--
 **joaoantuness/joaoantuness** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
